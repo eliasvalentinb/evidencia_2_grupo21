@@ -8,11 +8,11 @@ Correo: elias.ol333@gmail.com
 Link GitHub: https://github.com/eliasvalentinb
 
 Integrante 2
-Nombre:
-Apellido:
-DNI: 
-Correo:
-Link GitHub: 
+Nombre: Anibal Federico
+Apellido: Cordoba Hereñu
+DNI: 29208191
+Correo:federico.cordoba.ispc@gmail.com
+Link GitHub: https://github.com/fede-cordoba-Ispc
 
 Integrante 3
 Nombre:
