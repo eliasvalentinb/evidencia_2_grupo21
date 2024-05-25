@@ -22,11 +22,11 @@ Correo: fede.carabajals@gmail.com
 Link GitHub: https://github.com/fedeSanchezC
 
 Integrante 4
-Nombre:
-Apellido:
-DNI: 
-Correo:
-Link GitHub: 
+Nombre: Leandro Manuel
+Apellido: Quiroga Perez
+DNI: 40386818
+Correo: quirogaleandromanuel@gmail.com
+Link GitHub: https://github.com/LeandroQuiroga7
 
 Integrante 5
 Nombre:
