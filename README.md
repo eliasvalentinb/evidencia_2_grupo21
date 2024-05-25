@@ -36,8 +36,8 @@ Correo: aguilar.hfd@gmail.com
 Link GitHub: 
 
 Integrante 6
-Nombre:
-Apellido:
-DNI: 
-Correo:
-Link GitHub: 
+Nombre: Franco Andres
+Apellido: Molina 
+DNI: 41152795 
+Correo: francomolina155@gmail.com
+Link GitHub: https://github.com/Frankin98
