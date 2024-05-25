@@ -29,10 +29,10 @@ Correo: quirogaleandromanuel@gmail.com
 Link GitHub: https://github.com/LeandroQuiroga7
 
 Integrante 5
-Nombre:
-Apellido:
-DNI: 
-Correo:
+Nombre: Herman Federico Daniel
+Apellido: Aguilar
+DNI: 34349529
+Correo: aguilar.hfd@gmail.com
 Link GitHub: 
 
 Integrante 6
