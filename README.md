@@ -15,11 +15,11 @@ Correo:federico.cordoba.ispc@gmail.com
 Link GitHub: https://github.com/fede-cordoba-Ispc
 
 Integrante 3
-Nombre:
-Apellido:
-DNI: 
-Correo:
-Link GitHub: 
+Nombre: Federico
+Apellido: Sánchez Carabajal
+DNI: 37476913
+Correo: fede.carabajals@gmail.com
+Link GitHub: https://github.com/fedeSanchezC
 
 Integrante 4
 Nombre:
