@@ -58,7 +58,7 @@
 
   **Correo**: aguilar.hfd@gmail.com
 
-  **Link GitHub**: 
+  **Link GitHub**: https://github.com/HermanAguilar
 
 - ***Integrante 6***
 
